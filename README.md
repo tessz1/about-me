@@ -12,4 +12,6 @@
 ## Моя мечта
 Открыть свою небольшую компанию.
 
-![Кот](https://yandex.ru/images/search?pos=3&img_url=http%3A%2F%2Fpic.rutubelist.ru%2Fvideo%2F6a%2F7d%2F6a7d8742f32077ff3a2bc430c1d6baa3.jpg&text=смешные%20кошки&lr=38&rpt=simage&source=serp)
+![Один кот][1]
+
+[1]: cat.png "Кот"
